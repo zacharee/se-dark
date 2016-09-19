@@ -121,3 +121,7 @@ body.outside #container { /*text in room list*/
 .subheader #tabs a.youarehere { /*active tab*/
   background: #333;
 }
+
+.subheader #tabs a:hover { /*hover tab*/
+  background: #555;
+}
