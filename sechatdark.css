@@ -89,3 +89,8 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
   background-color: #191919;
   color: #999;
 }
+
+.wmd-prompt-dialog { /*upload dialog*/
+  background-color: #191919;
+  color: #999 !important;
+}
