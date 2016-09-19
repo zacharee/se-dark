@@ -654,3 +654,8 @@ a:hover, a:active {
 .started a:not(.started-link):hover, .started .mod-flair:hover {
     color: #29e;
 }
+
+.action-list .action-selected {
+    background-color: #555;
+}
+}
