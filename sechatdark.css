@@ -6,7 +6,7 @@ a.signature { /*profile names in chat list*/
   color: #999;
 }
 
-.messages {
+.messages { /*message background and text color*/
   background-color: #333;
   color: #999;
 }
