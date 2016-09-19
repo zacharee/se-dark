@@ -55,3 +55,6 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
 .room-info>.last-message { /*last message posted in joined chatrooms (sidebar preview)*/
   color: #3a8e5b;
 }
+
+.msg-small { /*"other rooms you're in"*/
+  color: #777;
