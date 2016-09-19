@@ -658,4 +658,6 @@ a:hover, a:active {
 .action-list .action-selected {
     background-color: #555;
 }
+.subtabs a.youarehere, .filter a.youarehere, .subtabs a.active, .filter a.active {
+    color: #999;
 }
