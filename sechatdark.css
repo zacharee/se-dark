@@ -43,3 +43,7 @@ div.message.reply-parent {
   border: 1px solid #555;
   box-shadow: 0 1px 15px #555;
 }
+
+.monologue .timestamp {
+  background-color: #999;
+}
