@@ -30,7 +30,7 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
 }
 
 .highlight { /*change highlight color for reply targets (no hover)*/
-  background-color: #DAA520 !important;
+  background-color: rgb(89,156,78) !important;
 }
 
 .mention { /*highlight for messages pinging current user*/
