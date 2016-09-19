@@ -17,5 +17,5 @@ a.signature {
 }
 
 a {
-  color: #999;
+  color: #999 !important;
 }
