@@ -111,3 +111,7 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
 body.outside #container { /*text in room list*/
   color: #999;
 }
+
+.roomcard, .usercard { /*room list tile color*/
+  background: #333;
+}
