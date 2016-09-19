@@ -592,3 +592,8 @@ span.diff-add {
 .topbar-dialog .unread-item {
     color: #444;
 }
+
+.action-list .action-selected {
+    background-color: #555;
+}
+}
