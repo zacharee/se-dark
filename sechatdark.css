@@ -74,5 +74,5 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
 }
 
 .button {
-  color: #222;
+  color: #222 !important;
 }
