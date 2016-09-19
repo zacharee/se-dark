@@ -38,7 +38,7 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
   color: #fff;
 }
 
-.mine .messages { /*message color for  current user*/
+.mine .messages { /*message color for current user*/
   background-color: #403a23;
 }
 
