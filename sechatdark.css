@@ -84,3 +84,8 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
 .flair { /*rep under name in chat list*/
   color: #888;
 }
+
+#input { /*chatbox*/
+  background-color: #191919;
+  color: #999;
+}
