@@ -136,3 +136,41 @@ body.outside #container { /*text in room list*/
     color: #2288dd;
 }
 
+/****************************************/
+/**TOPBAR**/
+
+.topbar-dialog .header {
+    background-color:#333;
+}
+
+.topbar-dialog.siteSwitcher-dialog .current-site-container {
+    background-color: #333;
+}
+
+.topbar-dialog.siteSwitcher-dialog .current-site-container:hover {
+    background-color: #444;
+    border-left: 3px solid #2f96e8;
+}
+
+.topbar input[type="text"] {
+    background-color:#444;
+    border: 1px solid #333;
+}
+
+.topbar-dialog.siteSwitcher-dialog .modal-content {
+    background-color: #444;
+}
+
+.topbar-dialog.inbox-dialog .inbox-item .item-content .item-summary, .topbar-dialog.modInbox-dialog .inbox-item .item-content .item-summary, .topbar-dialog.achievements-dialog .inbox-item .item-content .item-summary {
+    color: #999;
+}
+
+.topbar-dialog.siteSwitcher-dialog .current-site li:hover {
+    background-color: #555;
+}
+
+.topbar-dialog .modal-content li:hover {
+    background-color: #555;
+}
+
+/*****************************/
