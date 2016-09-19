@@ -25,11 +25,11 @@ div.message .meta { /*chat control background (star, reply, flag buttons)*/
 }
 
 div.message.reply-child, 
-div.message.reply-parent { /*change highlight color for messages in replies*/
+div.message.reply-parent { /*change highlight color for messages in replies (hovering)*/
   background-color: #555 !important;
 }
 
-.highlight { /**/
+.highlight { /*change highlight color for reply targets (no hover)*/
   background-color: #DAA520 !important;
 }
 
