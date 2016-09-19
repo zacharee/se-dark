@@ -59,3 +59,7 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
 .msg-small { /*"other rooms you're in"*/
   color: #777;
 }
+
+.system-message-container .system-message {
+  color: #999 !important;
+}
