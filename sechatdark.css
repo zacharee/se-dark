@@ -19,3 +19,6 @@ a.signature {
 a {
   color: #999 !important;
 }
+
+div.message .meta {
+  background-color: #333;
