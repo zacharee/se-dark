@@ -28,3 +28,7 @@ div.message .meta {
 .reply-parent {
   background-color: #555;
 }
+
+.monologue .mine {
+  background-color: #447e04;
+}
