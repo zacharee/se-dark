@@ -30,5 +30,5 @@ div.message .meta {
 }
 
 .monologue .mine {
-  background-color: #447e04;
+  background-color: #447e04 !important;
 }
