@@ -114,5 +114,5 @@ body.outside #container { /*text in room list*/
 
 .roomcard, .usercard { /*room list tile*/
   background: #333;
-  color: #999;
+  color: #999 !important;
 }
