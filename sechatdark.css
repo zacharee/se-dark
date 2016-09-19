@@ -48,6 +48,6 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
   box-shadow: 0 1px 15px #555;
 }
 
-.monologue .timestamp {
+.monologue .timestamp { /*timestamp color*/
   background-color: #999;
 }
