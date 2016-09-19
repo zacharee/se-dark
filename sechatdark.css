@@ -107,3 +107,7 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
 #input-area { /*background for bottom bar*/
   background: #555;
 }
+
+body.outside #container { /*text in room list*/
+  color: #999;
+  {
