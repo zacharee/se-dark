@@ -201,4 +201,12 @@ body.outside #container { /*text in room list*/
     text-shadow: none;
 }
 
+.topbar-dialog {
+    background-color: #444;
+    border-left: 1px solid #292929;
+    border-right: 1px solid #292929;
+    border-bottom: 1px solid #292929;
+    color: #ccc;
+}
+
 /*****************************/
