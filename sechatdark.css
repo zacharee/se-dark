@@ -68,3 +68,6 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
 .message.posted { /*new message color*/
   color: #3a8e5b;
 }
+
+#sidebar {
+  color: #999;
