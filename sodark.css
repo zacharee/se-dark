@@ -590,7 +590,7 @@ span.diff-add {
 }
 
 .topbar-dialog .unread-item {
-    color: #444;
+    background-color: #444;
 }
 
 .newnav .tabs-list-container .tabs-list .intellitab:after {
