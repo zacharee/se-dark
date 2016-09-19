@@ -33,12 +33,12 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
   background-color: #DAA520 !important;
 }
 
-.mention { /*highlight for messages pinging user*/
+.mention { /*highlight for messages pinging current user*/
   background-color: #d95e0c;
   color: #fff;
 }
 
-.mine .messages {
+.mine .messages { /*message color for  current user*/
   background-color: #403a23;
 }
 
