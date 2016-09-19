@@ -117,3 +117,7 @@ body.outside #container { /*text in room list*/
   background: #333;
   color: #999 !important;
 }
+
+.subheader #tabs a.youarehere { /*active tab*/
+  background: #333;
+}
