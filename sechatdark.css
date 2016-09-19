@@ -138,6 +138,9 @@ body.outside #container { /*text in room list*/
 
 /****************************************/
 /**TOPBAR**/
+.topbar {
+    background: #222;
+}
 
 .topbar-dialog .header {
     background-color:#333;
