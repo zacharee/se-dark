@@ -41,5 +41,5 @@ div.message.reply-parent {
 .popup, #main.message-admin-mode .message-controls, #conversation-sel {
   background: rgba(150,150,150,0.95);
   border: 1px solid #333;
-  0 1px 15px #9c9c9c
+  box-shadow: 0 1px 15px #9c9c9c
 }
