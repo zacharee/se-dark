@@ -30,7 +30,7 @@ div.message.reply-parent {
 }
 
 .highlight .message {
-  background-color: #909000;
+  background-color: #909000 !important;
 }
 
 .mention {
