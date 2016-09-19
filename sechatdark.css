@@ -105,5 +105,5 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
 }
 
 #input-area { /*background for bottom bar*/
-  color: #555;
+  background: #555;
 }
