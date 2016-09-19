@@ -2,7 +2,7 @@ body { /*body background*/
   background-color: #000 !important;
 }
 
-a.signature {
+a.signature { /*profile names in chat list*/
   color: #999;
 }
 
