@@ -77,6 +77,7 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
   color: #222 !important;
 }
 
-#sidebar #info #roomtitle {
+#sidebar #info #roomtitle { /*room title shadow*/
   text-shadow: 0px 1px 0px #222;
 }
+
