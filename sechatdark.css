@@ -24,6 +24,7 @@ div.message .meta {
   background-color: #333;
 }
 
-.reply-child, .reply-parent {
+.reply-child, 
+.reply-parent {
   background-color: #555;
 }
