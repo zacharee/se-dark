@@ -94,3 +94,7 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
   background-color: #191919;
   color: #999 !important;
 }
+
+.wmd-mini-button.selected:hover, .wmd-mini-button.selected  { /*selected button in upload dialog*/
+  background-color: #444;
+}
