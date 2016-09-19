@@ -125,3 +125,13 @@ body.outside #container { /*text in room list*/
 .subheader #tabs a:hover { /*hover tab*/
   background: #555;
 }
+
+.topbar-dialog .modal-content li:hover a:hover { /*inbox*/
+    background-color: #555;
+    color: #2288dd;
+}
+
+.topbar-dialog .modal-content li:active a:active { /*inbox*/
+    background-color: #666;
+    color: #2288dd;
+}
