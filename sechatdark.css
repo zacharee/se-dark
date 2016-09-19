@@ -52,6 +52,6 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
   background-color: #999;
 }
 
-ul#my-rooms>li.activity-0 {
+.room-info>.last-message {
   color: #3a8e5b;
 }
