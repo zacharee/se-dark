@@ -17,7 +17,7 @@ a.signature { /*profile names in chat list*/
 }
 
 a { /*link color*/
-  color: #999 !important;
+  color: #ccc !important;
 }
 
 div.message .meta { /*chat control background (star, reply, flag buttons)*/
