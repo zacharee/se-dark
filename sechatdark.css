@@ -1,5 +1,6 @@
 body { /*body background*/
   background-color: #000 !important;
+  background-image: none;
 }
 
 a.signature { /*profile names in chat list*/
