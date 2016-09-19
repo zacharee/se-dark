@@ -42,7 +42,7 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
   background-color: #403a23;
 }
 
-.popup, #main.message-admin-mode .message-controls, #conversation-sel {
+.popup, #main.message-admin-mode .message-controls, #conversation-sel { /*chat control popup (reply, flag, star, permalink)*/
   background: rgba(120,120,120,0.95);
   border: 1px solid #555;
   box-shadow: 0 1px 15px #555;
