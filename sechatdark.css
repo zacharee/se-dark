@@ -63,3 +63,7 @@ div.message.reply-parent { /*change highlight color for messages in replies (hov
 .system-message-container .system-message {
   color: #999 !important;
 }
+
+.message.neworedit,
+.message.posted {
+  color: #fff;
