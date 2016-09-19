@@ -178,4 +178,27 @@ body.outside #container { /*text in room list*/
     background-color: #555;
 }
 
+.topbar-dialog.help-dialog .item-summary {
+    color: #ccc;
+}
+
+.topbar-dialog.help-dialog a:visited, .topbar-dialog.siteSwitcher-dialog a:visited {
+    color: #1188dd;
+}
+
+.topbar-dialog .modal-content li:hover a:hover {
+    background-color: #555;
+    color: #2288dd;
+}
+
+.topbar-dialog .modal-content li:active a:active {
+    background-color: #666;
+    color: #2288dd;
+}
+
+.about-page .new-about-content-page h2.about-title {
+    color: #999 !important;
+    text-shadow: none;
+}
+
 /*****************************/
