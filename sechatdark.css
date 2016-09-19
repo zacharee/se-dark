@@ -29,7 +29,7 @@ div.message.reply-parent { /*change highlight color for messages in replies*/
   background-color: #555 !important;
 }
 
-.highlight {
+.highlight { /**/
   background-color: #DAA520 !important;
 }
 
