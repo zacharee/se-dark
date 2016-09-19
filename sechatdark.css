@@ -29,6 +29,11 @@ div.message.reply-parent {
   background-color: #555 !important;
 }
 
+div.message.reply-child.highlight,
+div.message.reply-parent.highlight {
+  background-color: #909000;
+}
+
 .mention {
   background-color: #d95e0c;
   color: #fff;
