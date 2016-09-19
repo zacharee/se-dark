@@ -126,6 +126,10 @@ body.outside #container { /*text in room list*/
   background: #555;
 }
 
+
+/****************************************/
+/**TOPBAR**/
+
 .topbar-dialog .modal-content li:hover a:hover { /*inbox*/
     background-color: #555;
     color: #2288dd;
@@ -136,8 +140,6 @@ body.outside #container { /*text in room list*/
     color: #2288dd;
 }
 
-/****************************************/
-/**TOPBAR**/
 .topbar {
     background: #222;
 }
