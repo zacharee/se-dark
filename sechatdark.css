@@ -16,7 +16,7 @@ a.signature { /*profile names in chat list*/
   color: #999;
 }
 
-a {
+a { /*link color*/
   color: #999 !important;
 }
 
