@@ -11,7 +11,7 @@ a.signature { /*profile names in chat list*/
   color: #999;
 }
 
-.ob-post {
+.ob-post { /*test and backgroud color for embedded posts*/
   background-color: #191919;
   color: #999;
 }
