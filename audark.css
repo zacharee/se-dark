@@ -600,3 +600,7 @@ span.diff-add {
 .message-text { /*text in inbox*/
     background-color: #444;
 }
+
+.message-text:hover { /* text in inbox hovering */
+    background-color: #555;
+}
