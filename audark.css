@@ -615,6 +615,6 @@ span.diff-add {
 }
 
 .suggested-edit .body-diffs .full-diff td { /*edit diff body*/
-    border-left: 4px solid #444;
-    border-right: 4px solid #444;
+    border-left: 4px solid #191919;
+    border-right: 4px solid #191919;
 }
