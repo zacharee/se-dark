@@ -618,3 +618,7 @@ span.diff-add {
     border-left: 4px solid #191919;
     border-right: 4px solid #191919;
 }
+
+blockquote { /*blockquotes*/
+    background-color: #333;
+}
