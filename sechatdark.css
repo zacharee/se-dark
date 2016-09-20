@@ -221,3 +221,7 @@ body.outside #container { /*text in room list*/
 .ob-wikipedia-title a, .ob-amazon-title a, .ob-lpadbug-title a, .ob-manpage-title a, .ob-blog-title a, .ob-anime-title a { /*title*/
   color: #ccc;
 }
+
+div.ob-post-title { /*titles of embedded Qs*/
+    color: #ccc;
+}
