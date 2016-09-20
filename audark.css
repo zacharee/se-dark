@@ -622,3 +622,7 @@ span.diff-add {
 blockquote { /*blockquotes*/
     background-color: #333;
 }
+
+a.bounty-link { /*start bounty link*/
+    color: #999;
+}
