@@ -605,6 +605,6 @@ span.diff-add {
 /*    background-color: #555;*/
 /*}*/
 
-.owner-revision { /*panel showing edit reason and editor name in revision history*/
+.owner-revision td { /*panel showing edit reason and editor name in revision history*/
     background-color: #333;
 }
