@@ -609,6 +609,12 @@ span.diff-add {
     background-color: #333;
 }
 
-.suggested-edit .body-diffs .full-diff .deleted>div { /* background color in suggested edits diffs for areas changed */
+.suggested-edit .body-diffs .full-diff .deleted>div,
+.suggested-edit .body-diffs .full-diff .inserted>div { /* background color in suggested edits diffs for areas changed */
     background-color: #444;
+}
+
+.suggested-edit .body-diffs .full-diff td { /*edit diff body*/
+    border-left: 4px solid #444;
+    border-right: 4px solid #444;
 }
