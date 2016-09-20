@@ -24,6 +24,7 @@ a { /*link color*/
 
 div.message .meta { /*chat control background (star, reply, flag buttons)*/
   background-color: #333;
+  color: #999;
 }
 
 div.message.reply-child, 
