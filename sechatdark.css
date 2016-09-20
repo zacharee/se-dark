@@ -218,3 +218,6 @@ body.outside #container { /*text in room list*/
   background-color: #444;
   color: #999;
 }
+.ob-wikipedia-title a, .ob-amazon-title a, .ob-lpadbug-title a, .ob-manpage-title a, .ob-blog-title a, .ob-anime-title a { /*title*/
+  color: #ccc;
+}
