@@ -564,9 +564,9 @@ span.diff-add {
     border-bottom: 6px solid #444;
 }
 
-.message-text {
-    background-color: #333;
-}
+/*.message-text {*/
+/*    background-color: #333;*/
+/*}*/
 
 
 .message.message-config h1, .message.message-config h2, .message.message-config h3, .message.message-config h4 {
@@ -597,10 +597,10 @@ span.diff-add {
     background-color: #555;
 }
 
-.message-text { /*text in inbox*/
-    background-color: #444;
-}
+/*.message-text { /*text in inbox*/
+/*    background-color: #444;*/
+/*}*/
 
-.message-text:hover { /* text in inbox hovering */
-    background-color: #555;
-}
+/*.message-text:hover { /* text in inbox hovering */
+/*    background-color: #555;*/
+/*}*/
