@@ -216,4 +216,5 @@ body.outside #container { /*text in room list*/
 /*embedded pages*/
 .ob-wikipedia, .ob-amazon, .ob-gist, .ob-message, .ob-lpadbug, .ob-manpage, .ob-blog, .ob-exception, .ob-anime {
   background-color: #444;
+  color: #999;
 }
