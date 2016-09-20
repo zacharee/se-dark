@@ -226,3 +226,8 @@ body.outside #container { /*text in room list*/
 div.ob-post-title a { /*titles of embedded Qs*/
     color: #ccc !important;
 }
+
+.room-mini { /*embedded chat link*/
+    background-color: #444;
+    color: #999;
+}
