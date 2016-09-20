@@ -398,9 +398,9 @@ span.diff-add {
     color: #999;
 }
 
-.message-text {
-    background-color: #999;
-}
+/*.message-text {*/
+/*    background-color: #999;*/
+/*}*/
 
 .rep-card .progress-bar .percent, .progress-bar.green .percent, .rep-card .progress-bar-large .percent, .progress-bar-large.green .percent {
     background-color: #62fb71;
