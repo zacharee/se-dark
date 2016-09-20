@@ -222,6 +222,6 @@ body.outside #container { /*text in room list*/
   color: #ccc;
 }
 
-div.ob-post-title { /*titles of embedded Qs*/
+div.ob-post-title a { /*titles of embedded Qs*/
     color: #ccc;
 }
