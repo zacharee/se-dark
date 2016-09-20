@@ -594,7 +594,7 @@ span.diff-add {
 }
 
 .action-list .action-selected {
-    background-color: #292929;
+    background-color: #333;
 }
 
 /*.message-text { /*text in inbox*/
