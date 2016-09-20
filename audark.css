@@ -608,3 +608,7 @@ span.diff-add {
 .owner-revision td { /*panel showing edit reason and editor name in revision history*/
     background-color: #333;
 }
+
+.suggested-edit .body-diffs .full-diff .deleted>div { /* background color in suggested edits diffs for areas changed */
+    background-color: #444;
+}
