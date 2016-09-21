@@ -1,202 +1,263 @@
+/*Links to questions/answers*/
 .question-hyperlink, .answer-hypherlink {
     color: #999;
 }
 
+/*body background color*/
 body {
     background: #090909; !IMPORTANT
     background-color: #090909;
+}
+
+/*body text color*/
+body {
     color: #aaa; !IMPORTANT
 }
 
+/*content background color*/
 #content {
     background: #191919;
 }
 
+/*background for site links at very top*/
 #custom-header .nav-global {
     background: #333;
 }
 
+/*link colors for sites*/
 #custom-header .nav-global ul li a:link, #custom-header .nav-global ul li a:visited {
     color: #999;
 }
 
+/*question/answer escerpt text*/
 .excerpt {
     color: #888;
 }
 
+/*tag background color*/
 .post-tag, .geo-tag, .container .chosen-choices .search-choice, .container .chosen-container-multi .chosen-choices li.search-choice {
-    color: #aaa;
     background-color: #333;
 }
 
+/*tag text color*/
+.post-tag, .geo-tag, .container .chosen-choices .search-choice, .container .chosen-container-multi .chosen-choices li.search-choice {
+    color: #aaa;
+}
+
+/*search bar (corner one on home page) background and shadow*/
 .topbar .topbar-links .search-container input[type=text] {
     background-color: #333;
     box-shadow: inset 0 1px 2px #333,0 0 0 #FFF;
 }
 
+/*search bar hover background color*/
 .topbar .topbar-links .search-container input[type=text]:hover {
     background-color: #444;
     box-shadow: inset 0 1px 2px #333,0 0 2px rgba(0,119,204,0.1);
+}
+
+/*search bar hover text color*/
+.topbar .topbar-links .search-container input[type=text]:hover {
     color: #ccc;
 }
 
+/*search bar focus background color*/
 .topbar .topbar-links .search-container input[type=text]:focus {
     background-color: #333;
     box-shadow: inset 0 1px 2px #333,0 0 2px rgba(0,119,204,0.1);
+}
+
+/*search bar focus text color*/
+.topbar .topbar-links .search-container input[type=text]:focus {
     color: #ccc;
 }
 
+/*Hot Meta Posts background and border*/
 .module.community-bulletin {
     background-color: #333;
     border: 1px solid #555;
 }
 
+/*vote counter name ("votes") color (main page)*/
 .statscontainer .votes {
     color: #aaa;
 }
 
+/*vote counter color (main page)*/
 .vote-count-post strong {
     color: #aaa;
 }
 
+/*Favorite Tags title color*/
 .module h4 {
     color: #aaa;
 }
 
+/*tag item counter (sidebar home page)*/
 .item-multiplier-count {
     color: #999;
 }
 
+/*"All Questions" color*/
 .subheader h1, .subheader h2 {
     color: #999;
 }
 
+/*footer bakground color*/
 #footer .footerwrap {
     background-color: #191919;
 }
 
+/*footer link color*/
 #footer .top-footer-links a, #footer .top-footer-links a:visited {
     color: #999;
 }
 
-#footer th {
-    color: #999;
-}
-
+/*footer visited link color*/
 #footer #footer-sites a, #footer #footer-sites a:visited {
     color: #888;
 }
 
+/*footer category title color*/
+#footer th {
+    color: #999;
+}
+
+/*review intro ("Help improve the site")*/
 .newuser {
     background-color: #333;
     border: 1px solid #555;
 }
 
+/*review type summary bar (in queue)*/
 .review-bar-container .review-bar {
     background-color: rgba(50,50,50,0.95);
 }
 
-pre {
-    background-color: #333;
-}
-
-code {
-    background-color: #333;
-}
-
-.owner {
-    background-color: #333;
-}
-
+/*review reason (EX: "duplicate: This question has been...")*/
 .review-bar-container .review-bar .review-instructions-reason {
     background-color: #222;
 }
 
+/*codeblock*/
+pre {
+    background-color: #333;
+}
+
+/*codeblock*/
+code {
+    background-color: #333;
+}
+
+/*akser username tile*/
+.owner {
+    background-color: #333;
+}
+
+/*edit review diff controls*/
 .diff-choices a, .diff-type-controls a {
     border: 1px solid #333;
     background-color: #222;
 }
 
+/*edit review diff controls hover*/
 .diff-choices a:hover, .diff-type-controls a:hover {
     background-color: #111;
     border: 1px solid #222;
 }
 
+/*edit review diff control hover/active*/
 .diff-choices a.selected:hover, .diff-type-controls a.selected:hover, .diff-buttons a.selected:hover, .diff-choices a.selected:hover, .diff-type-controls a.selected:hover, .diff-buttons a.selected:hover {
     border: 1px solid #222;
     background-color: #111;
 }
 
+/*edit review diff control selected*/
 .diff-choices a.selected, .diff-type-controls a.selected, .diff-buttons a.selected, .diff-choices a.selected, .diff-type-controls a.selected, .diff-buttons a.selected {
     border: 1px solid #333;
     background-color: #222;
 }
 
+/*suggested edit reason*/
 .revision-comment {
     color: #888;
 }
 
+/*text removed in edit*/
 #revisions .markdown-diff .full-diff .deleted>div {
     background-color: #222;
 }
 
-#revisions .markdown-diff .full-diff td {
-    border-left: 4px solid #191919;
-    border-right: 4px solid #191919;
-}
-
+/*text removed in edit (red highlights)*/
 span.diff-delete {
     color: #a10;
     background-color: #D4ACA1;
 }
 
+/*background color for diff*/
+#revisions .markdown-diff .full-diff td {
+    border-left: 4px solid #191919;
+    border-right: 4px solid #191919;
+}
+
+/*text added in edit (green highlights)*/
 #revisions .markdown-diff .full-diff .inserted>div {
     background-color: #222;
 }
 
+/*if a question is on hold, the reason shown*/
 .question-status {
     background-color: #333;
 }
 
+/*search bar on search page (also other inputs)*/
 input[type="text"], input[type="password"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="datetime"], textarea {
     background-color: #333;
     color: #888;
 }
 
+/*text that matches search term in results*/
 .result-highlight {
     color: #ddd;
 }
 
+/*current page of results/questions/answers*/
 .page-numbers.current {
     color: #ccc;
     background-color: #444;
 }
 
+/*page link hover*/
 .page-numbers:hover {
     color: #ccc;
     background-color: #777;
 }
 
+/*More menu in site links at top*/
 #custom-header .nav-global .more.open {
     background: #333;
     border-left: 1px solid #292929;
     border-right: 1px solid #292929;
 }
 
+/*links under More menu*/
 #custom-header .nav-global ul li ul {
     background: #333;
 }
 
+/*Communities/other SE sites menu*/
 .topbar .topbar-icon-on, .topbar .topbar-icon-on:hover {
     background-color: #333 !important;
     color: rgba(100,100,100,0.86);
 }
 
+/*help menu*/
 .topbar .icon-help.topbar-icon-on {
     color: rgba(175,175,175,0.86) !important;
     color: #ccc;
 }
 
+/*menus in topbar*/
 .topbar-dialog {
     background-color: #444;
     border-left: 1px solid #292929;
@@ -205,24 +266,29 @@ input[type="text"], input[type="password"], input[type="number"], input[type="em
     color: #ccc;
 }
 
+/*summary for help topics in menu*/
 .topbar-dialog.help-dialog .item-summary {
     color: #ccc;
 }
 
+/*visited links in help menu/site switcher*/
 .topbar-dialog.help-dialog a:visited, .topbar-dialog.siteSwitcher-dialog a:visited {
     color: #1188dd;
 }
 
+/*hovered links in menus*/
 .topbar-dialog .modal-content li:hover a:hover {
     background-color: #555;
     color: #2288dd;
 }
 
+/*active links in menus*/
 .topbar-dialog .modal-content li:active a:active {
     background-color: #666;
     color: #2288dd;
 }
 
+/*********Tour Page***********/
 .about-page .new-about-content-page h2.about-title {
     color: #999 !important;
     text-shadow: none;
@@ -241,7 +307,9 @@ input[type="text"], input[type="password"], input[type="number"], input[type="em
     background-color: #222 !important;
     border: 1px solid #555;
 }
+/***************************/
 
+/*keyboard button formatting*/
 kbd {
     box-shadow: 0 1px 0 rgba(12,13,14,0.2),0 0 0 2px #bbb inset
 }
