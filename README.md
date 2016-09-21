@@ -17,6 +17,7 @@ If there's an element that hasn't been changed or something else looks bad, eith
 
  1. You'll need Greasemonkey (Firefox) or Tampermonkey (Chrome) installed for this plugin to work properly.
  2. Once you have either one installed, simply click the link for the raw JS and you will be prompted to install it.
+ 2. You can also install it via clicking the Tampermonkey then 'Add a New Script' then pasting the sedark.user.js code to the editor. You need to save it by Ctrl+S or clicking to the Save button and refresh the web pages/restart the browser.
  3. You may need to restart your browser. You will need to refresh affected web pages.
 
 #NOTES
