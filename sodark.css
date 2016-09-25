@@ -670,3 +670,10 @@ a:hover, a:active {
 .str, .lit, .tag {
     color: #9f4949;
 }
+
+/*skipped lines in edit diffs*/
+.suggested-edit .body-diffs .full-diff .skip {
+    background-color: #111;
+    border-top: 4px solid #191919;
+    border-bottom: 4px solid #191919;
+}
