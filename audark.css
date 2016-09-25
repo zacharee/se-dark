@@ -695,3 +695,11 @@ a.bounty-link { /*start bounty link*/
     color: #999;
 }
 
+/*fix prettified code blocks*/
+.pun, .pln {
+    color: #999;
+}
+
+.str, .lit, .tag {
+    color: #9f4949;
+}
