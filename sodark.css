@@ -661,3 +661,12 @@ a:hover, a:active {
 .subtabs a.youarehere, .filter a.youarehere, .subtabs a.active, .filter a.active {
     color: #999;
 }
+
+/*fix prettified code blocks*/
+.pun, .pln {
+    color: #999;
+}
+
+.str, .lit, .tag {
+    color: #9f4949;
+}
