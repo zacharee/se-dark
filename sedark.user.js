@@ -4,11 +4,30 @@
 // @version      0.2
 // @description  Dark theme for Stack Exchange
 // @author       Zachary Wander
+<<<<<<< HEAD
 // @include      *://askubuntu.com/*
 // @include      *://meta.askubuntu.com/*
 // @include      *://stackoverflow.com/*
 // @include      *://meta.stackoverflow.com/*
 // @include      *://chat.stackexchange.com/*
+=======
+
+// @include      http://askubuntu.com/*
+// @include      https://askubuntu.com/*
+
+// @include      http://meta.askubuntu.com/*
+// @include      https://meta.askubuntu.com/*
+
+// @include      http://stackoverflow.com/*
+// @include      https://stackoverflow.com/*
+
+// @include      http://meta.stackoverflow.com/*
+// @include      https://meta.stackoverflow.com/*
+
+// @include      http://chat.stackexchange.com/*
+// @include      https://chat.stackexchange.com/*
+
+>>>>>>> refs/remotes/origin/master
 // @grant        none
 // ==/UserScript==
 
