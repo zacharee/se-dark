@@ -13,9 +13,6 @@ Currently working on:
  - Stack Exchange Chat (chat.stackechange.com)
  
  - HTTPS now works on all supported sites.
-   
-
-If there's an element that hasn't been changed or something else looks bad, either submit a pull request with your changes or open a new issue.
 
 # INSTALLATION
 
@@ -27,6 +24,12 @@ After you have the appropriate plugin installed, click the image below, which wi
 
 Be sure to accept the prompt brought up by your browser to confirm the installation. When the script is set up, restart your browser to make sure the script is activated.
 
-#NOTES
+# COLLABORATION
+
+To be frank, I need help with this. I'm barely able to maintain 2/3 sites right now, much less any else that might get added. I would realy appreciate it if anyone willing would submit pull requests with the fixes for certain broken elements on site. It saves me a lot of work. (Please comment the code, even though I haven't :p)
+
+If you want to be able to edit directly without pull requests, send me a message/email/howeverthisworks and I'll respond as soon as I can.
+
+# NOTES
 
  - The script will send data to another server. However, this data is _only_ used to serve as a counter for the number is active users. If you do not want this behavior, there is a comment in the JS indicating what to delete. (THIS HAS NOT YET BEEN IMPLEMENTED)
