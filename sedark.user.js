@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SEDARK
 // @namespace    zachary@techyteen.tk
-// @version      0.3
+// @version      0.3.1
 // @description  Dark theme for Stack Exchange
 // @author       Zachary Wander
 
@@ -10,22 +10,6 @@
 // @include      *://stackoverflow.com/*
 // @include      *://meta.stackoverflow.com/*
 // @include      *://chat.stackexchange.com/*
-
-
-// @include      http://askubuntu.com/*
-// @include      https://askubuntu.com/*
-
-// @include      http://meta.askubuntu.com/*
-// @include      https://meta.askubuntu.com/*
-
-// @include      http://stackoverflow.com/*
-// @include      https://stackoverflow.com/*
-
-// @include      http://meta.stackoverflow.com/*
-// @include      https://meta.stackoverflow.com/*
-
-// @include      http://chat.stackexchange.com/*
-// @include      https://chat.stackexchange.com/*
 
 // @grant        none
 // ==/UserScript==
