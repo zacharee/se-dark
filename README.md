@@ -13,6 +13,12 @@ If you notice any stylistic bugs, please check for an already-existing [Issue](.
 
 Alternatively, you may submit a pull request to fix anything that you think is bad!
 
+# Previews
+
+You might want to know what the site looks like before you install some random script. Well you're in luck!
+
+[Click Here](https://zacharee.github.io/se-dark/) to see some images of the supported sites (formatting coming later).
+
 # Installation
 
 To install this script, you'll need [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) for Chrome.
