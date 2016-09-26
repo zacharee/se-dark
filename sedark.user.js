@@ -27,7 +27,6 @@
 // @include      http://chat.stackexchange.com/*
 // @include      https://chat.stackexchange.com/*
 
->>>>>>> refs/remotes/origin/master
 // @grant        none
 // ==/UserScript==
 
