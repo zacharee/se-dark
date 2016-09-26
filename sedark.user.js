@@ -4,6 +4,13 @@
 // @version      0.3
 // @description  Dark theme for Stack Exchange
 // @author       Zachary Wander
+<<<<<<< HEAD
+// @include      *://askubuntu.com/*
+// @include      *://meta.askubuntu.com/*
+// @include      *://stackoverflow.com/*
+// @include      *://meta.stackoverflow.com/*
+// @include      *://chat.stackexchange.com/*
+=======
 
 // @include      http://askubuntu.com/*
 // @include      https://askubuntu.com/*
@@ -20,6 +27,7 @@
 // @include      http://chat.stackexchange.com/*
 // @include      https://chat.stackexchange.com/*
 
+>>>>>>> refs/remotes/origin/master
 // @grant        none
 // ==/UserScript==
 

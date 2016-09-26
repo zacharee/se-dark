@@ -17,12 +17,15 @@ Currently working on:
 
 If there's an element that hasn't been changed or something else looks bad, either submit a pull request with your changes or open a new issue.
 
-#INSTALLATION
+# INSTALLATION
 
- 1. You'll need Greasemonkey (Firefox) or Tampermonkey (Chrome) installed for this plugin to work properly.
- 2. Once you have either one installed, simply click the link for the raw JS and you will be prompted to install it.
- 2. You can also install it via clicking the Tampermonkey then 'Add a New Script' then pasting the sedark.user.js code to the editor. You need to save it by Ctrl+S or clicking to the Save button and refresh the web pages/restart the browser.
- 3. You may need to restart your browser. You will need to refresh affected web pages.
+To install this script, you'll need [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) for Chrome.
+
+After you have the appropriate plugin installed, click the image below, which will automagically install the userscript.
+
+[![Install!](https://i.imgur.com/Xnox5zi.png)](../../raw/master/sedark.user.js)
+
+Be sure to accept the prompt brought up by your browser to confirm the installation. When the script is set up, restart your browser to make sure the script is activated.
 
 #NOTES
 
