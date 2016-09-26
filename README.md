@@ -10,6 +10,10 @@ Currently working on:
  - Stack Overflow (stackoverflow.com)
    - Meta (meta.stackoverflow.com)
    
+ - Stack Exchange Chat (chat.stackechange.com)
+ 
+ - HTTPS now works on all supported sites.
+   
 
 If there's an element that hasn't been changed or something else looks bad, either submit a pull request with your changes or open a new issue.
 
