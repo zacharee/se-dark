@@ -518,6 +518,11 @@ span.diff-add {
     background-color: #191919;
 }
 
+/* Event Highlighting (to test!) */
+.user-show-new .user-rep-full .rep-recent-row .highlight-row {
+    background-color: #252525;
+}
+
 .sidebar-element .list li .rep-and-badges {
     background-color: #191919;
 }
