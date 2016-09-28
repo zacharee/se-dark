@@ -1,6 +1,7 @@
 body { /*body background*/
   background-color: #000 !important;
   background-image: none;
+  color: #999;
 }
 
 a.signature { /*profile names in chat list*/
@@ -231,4 +232,8 @@ div.ob-post-title a { /*titles of embedded Qs*/
 .room-mini { /*embedded chat link*/
     background-color: #444;
     color: #999;
+}
+
+.notification, #feed-ticker { /*notification bar*/
+    background-color: #333;
 }
