@@ -716,7 +716,7 @@ a.bounty-link { /*start bounty link*/
     border-bottom: 4px solid #191919;
 }
 
-#revisions .markdown-diff .full-diff .skip {
+td.skip {
     background-color: #111;
     border-top: 4px solid #191919;
     border-bottom: 4px solid #191919;
