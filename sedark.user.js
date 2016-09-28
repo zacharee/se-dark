@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SEDARK
 // @namespace    zachary@techyteen.tk
-// @version      0.3.1
+// @version      0.3.2
 // @description  Dark theme for Stack Exchange
 // @author       Zachary Wander
 
