@@ -237,3 +237,11 @@ div.ob-post-title a { /*titles of embedded Qs*/
 .notification, #feed-ticker { /*notification bar*/
     background-color: #333;
 }
+
+.ob-tweet, .ob-twitteruser { /*twitter embed*/
+    background-color: #222;
+}
+
+.ob-tweet .ob-status-text { /*twitter embed*/
+    color: #999;
+}
