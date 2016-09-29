@@ -709,7 +709,7 @@ a.bounty-link { /*start bounty link*/
     color: #9f4949;
 }
 
-/*skipped lines in edit diffs*/
+/*skipped line count in edit diffs*/
 .suggested-edit .body-diffs .full-diff .skip {
     background-color: #111; !important
     border-top: 4px solid #222; !important
@@ -720,4 +720,18 @@ a.bounty-link { /*start bounty link*/
     background-color: #111; !important
     border-top: 4px solid #222; !important
     border-bottom: 4px solid #222; !important
+}
+
+/*login form*/
+#add-login-page #formContainer, #login-page #formContainer, #signup-page #formContainer {
+    background-color: #333;
+}
+
+#add-login-page #or, #login-page #or, #signup-page #or {
+    background-color: #333;
+}
+
+/*acct register link*/
+#add-login-page #switch, #login-page #switch, #signup-page #switch {
+    background-color: #333;
 }
