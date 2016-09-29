@@ -735,3 +735,24 @@ a.bounty-link { /*start bounty link*/
 #add-login-page #switch, #login-page #switch, #signup-page #switch {
     background-color: #333;
 }
+
+/*question dupe close dialog*/
+.close-as-duplicate-pane .original-display .list-originals .list .item .stats {
+    background-color: #333;
+}
+
+.close-as-duplicate-pane .original-display .list-originals .list .item.hover .stats {
+    background-color: #444: 
+}
+
+.close-as-duplicate-pane .original-display .list-originals .list .item {
+    color: #999;
+}
+
+.close-as-duplicate-pane .original-display .list-originals .list .item.hover {
+    background-color: #333;
+}
+ 
+.close-as-duplicate-pane .original-display .list-originals .list .item .body-summary {
+    color: inherit;
+}
