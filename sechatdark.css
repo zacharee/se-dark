@@ -239,9 +239,9 @@ div.ob-post-title a { /*titles of embedded Qs*/
 }
 
 .ob-tweet, .ob-twitteruser { /*twitter embed*/
-    background-color: #222;
+    background-color: #222; !important
 }
 
 .ob-tweet .ob-status-text { /*twitter embed*/
-    color: #999;
+    color: #999; !important
 }
