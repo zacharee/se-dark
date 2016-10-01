@@ -756,3 +756,8 @@ a.bounty-link { /*start bounty link*/
 .close-as-duplicate-pane .original-display .list-originals .list .item .body-summary {
     color: inherit;
 }
+
+/*revision info color*/
+.revision td {
+    background-color: #292929;
+}
