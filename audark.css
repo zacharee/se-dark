@@ -78,6 +78,10 @@ body {
     border: 1px solid #555;
 }
 
+.question-summary{
+    border-bottom: 1px solid #444444;   
+}
+
 /*vote counter name ("votes") color (main page)*/
 .statscontainer .votes {
     color: #aaa;
@@ -101,6 +105,10 @@ body {
 /*"All Questions" color*/
 .subheader h1, .subheader h2 {
     color: #999;
+}
+
+.subheader {
+    border-bottom: 1px solid #777;
 }
 
 /*footer bakground color*/
@@ -431,6 +439,10 @@ a {
 .post-tag:hover {
     background-color: #666;
     color: #ccc;
+}
+
+.post-tag:before {
+    background-color: #999;
 }
 
 span.diff-add {
