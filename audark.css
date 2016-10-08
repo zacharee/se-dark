@@ -788,3 +788,10 @@ a.bounty-link { /*start bounty link*/
 .review-stats-count-current-user {
     background-color: #333;
 }
+
+
+/*new rep gained/lost*/ 
+.user-show-new .user-rep-full .rep-recent-row {
+    background-color: #111;
+}
+
