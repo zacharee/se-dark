@@ -773,3 +773,18 @@ a.bounty-link { /*start bounty link*/
 .revision td {
     background-color: #292929;
 }
+
+/*review queue stats*/
+.stats-mainbar .task-stat-table td {
+    background-color: #333;
+    border: 5px solid #222;
+}
+
+/*current user's review stats in queue*/
+.review-stats-current-user {
+    background-color: #333;
+}
+
+.review-stats-count-current-user {
+    background-color: #333;
+}
