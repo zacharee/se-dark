@@ -795,3 +795,7 @@ a.bounty-link { /*start bounty link*/
     background-color: #111;
 }
 
+/*new responses*/
+.user-show-new .highlight-row {
+    background-color: #111;
+}
