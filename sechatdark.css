@@ -245,3 +245,15 @@ div.ob-post-title a { /*titles of embedded Qs*/
 .ob-tweet .ob-status-text { /*twitter embed*/
     color: #999; !important
 }
+
+/*loading screen background*/
+#loading {
+    background: rgba(30,30,30,0.95);
+}
+
+/*loading message*/
+#loading #loading-message {
+  background: #333;
+  box-shadow: 0 1px 15px #292929;
+}
+  
