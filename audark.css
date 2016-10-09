@@ -799,3 +799,8 @@ a.bounty-link { /*start bounty link*/
 .user-show-new .highlight-row {
     background-color: #111;
 }
+
+/*closure stat light rows*/
+.tools.close-stats .closure-stats .row:nth-child(odd), .tools.close-stats .custom-reasons .row:nth-child(odd) {
+    background-color: #333;
+}
