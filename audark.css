@@ -804,3 +804,24 @@ a.bounty-link { /*start bounty link*/
 .tools.close-stats .closure-stats .row:nth-child(odd), .tools.close-stats .custom-reasons .row:nth-child(odd) {
     background-color: #333;
 }
+
+/*image upload modal (possibly all modals)*/
+.wmd-prompt-dialog {
+    background-color: #222;
+}
+
+.modal {
+    background-color: #222;
+}
+
+.modal.image-upload .modal-options {
+    color: #999;
+}
+
+.modal.image-upload .modal-dropzone-default {
+    background: #333;
+}
+
+.modal.image-upload .modal-dropzone-default:hover, .modal.image-upload .modal-dropzone-default.hover {
+    background: #454545;
+}
