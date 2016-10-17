@@ -825,3 +825,9 @@ a.bounty-link { /*start bounty link*/
 .modal.image-upload .modal-dropzone-default:hover, .modal.image-upload .modal-dropzone-default.hover {
     background: #454545;
 }
+
+
+/* revision history */
+.vote-revision td {
+    background-color: #393939;
+}
