@@ -4,6 +4,7 @@ This userscript provides dark themes for various StackExchange sites. Currently,
 
  - [Ask Ubuntu](https://askubuntu.com)
  - [Stack Overflow](https://stackoverflow.com)
+ - [Stack Exchange Chat](https://chat.stackexchange.com)
    
 This userscript also supports chat on the StackExchange domain.
 
