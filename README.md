@@ -35,7 +35,15 @@ The userscript will (eventually) automatically update as new revisions are poste
 
 Unfortunately, this project needs a *lot* of time and work. If you can, please take an Issue or two and try to fix them! When you're done, submit a merge request and it'll be added to the project eventually.
 
+Please make changes in the [Beta branch](https://github.com/zacharee/se-dark/tree/beta).
+
 If you want to get Collaborator access, please send [Zacharee](https://github.com/zacharee) a message.
+
+# Where's my site?
+
+If you use a Stack Exchange site that this userscript doesn't cover, head on over to the [Beta branch](https://github.com/zacharee/se-dark/tree/beta). This branch is for developing the stylesheets for the sites; it has more frequent changes, but also more unfinished and experimental work. 
+
+There's a chance you will see your site in Beta, but if you don't, you can always start it yourself. Either start from scratch or copy a stylesheet from another, completed site and make any necessary changes.
 
 # Notes
 
