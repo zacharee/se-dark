@@ -10,6 +10,8 @@
 // @include      *://stackoverflow.com/*
 // @include      *://meta.stackoverflow.com/*
 // @include      *://chat.stackexchange.com/*
+// @include      *://superuser.com/*
+// @include      *://meta.superuser.com/*
 
 // @grant        none
 // ==/UserScript==
@@ -33,6 +35,11 @@ if ((spl[2] == "askubuntu.com") || (spl[2] == "meta.askubuntu.com")) {
 } else if (spl[2] == "chat.stackexchange.com") {
     (function() {
         jQuery('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/zacharee/se-dark/master/sechatdark.css" class="--apng-checked">');
+    
+    })();
+} else if ((spl[2] == "superuser.com") || spl[2] == "meta.superuser.com") {
+    (function() {
+        jQuery('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/zacharee/se-dark/master/sodark.css" class="--apng-checked">');
     
     })();
 } else {}
