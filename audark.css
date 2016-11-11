@@ -831,3 +831,12 @@ a.bounty-link { /*start bounty link*/
 .vote-revision td {
     background-color: #393939;
 }
+
+/*<kbd> elements*/
+kbd {
+    box-shadow: 0 1px 0 rgba(12,13,14,0.2),0 0 0 2px #333 inset;
+    text-shadow: 0 1px 0 #777;
+    background-color: #393939;
+    border: 1px solid #333;
+    color: #fff;
+}
