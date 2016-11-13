@@ -860,7 +860,7 @@ kbd {
 }
 /*arrow sprites hover/active*/
 #side-menu ul li>a:hover:after, #side-menu ul li>a.youarehere:after {
-    background-position: -34px -370px;
+    background-position: -21px -370px;
 }
 /*privileges link sprite hover/active*/
 #side-menu ul.external a:hover:after, #side-menu ul li.external a:hover:after {
