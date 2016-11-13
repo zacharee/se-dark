@@ -848,3 +848,13 @@ kbd {
 .title-box>.title {
     color: #ccc;
 }
+
+/*Edit Profile sidebar links*/
+/*active and hovered link text color*/
+#side-menu ul li>a:hover, #side-menu ul li>a.youarehere {
+    color: #ccc;
+}
+/*link hover background*/
+#side-menu ul li>a:hover {
+    background: #333;
+}
