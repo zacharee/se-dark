@@ -840,3 +840,11 @@ kbd {
     border: 1px solid #333;
     color: #fff;
 }
+
+/*titles in user preferences*/
+.title-box {
+    background: #191919;
+}
+.title-box>.title {
+    color: #ccc;
+}
