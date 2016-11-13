@@ -866,3 +866,8 @@ kbd {
 #side-menu ul.external a:hover:after, #side-menu ul li.external a:hover:after {
     background-position: -49px -370px;
 }
+
+/*profile save success background*/
+.val-success {
+    background: #292929;
+}
