@@ -677,3 +677,8 @@ a:hover, a:active {
     border-top: 4px solid #191919;
     border-bottom: 4px solid #191919;
 }
+
+/*blockquote*/
+blockquote {
+    background-color: #444 !important;
+}
