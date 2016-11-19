@@ -266,3 +266,9 @@ div.ob-post-title a { /*titles of embedded Qs*/
 .event-banner {
   background-color: #333;
 }
+
+/*new room dialog*/
+.create-room {
+  background: #111;
+  color: #ccc;
+}
