@@ -261,3 +261,8 @@ div.ob-post-title a { /*titles of embedded Qs*/
 .ob-user {
   background-color: #222;
 }
+
+/*upcoming events banner*/
+.event-banner {
+  background-color: #333;
+}
