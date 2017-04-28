@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SEDARK
 // @namespace    zachary@techyteen.tk
-// @version      0.4.0b
+// @version      0.4.2b
 // @description  Dark theme for Stack Exchange
 // @author       Zachary Wander
 
@@ -32,7 +32,7 @@ if ((spl[2] == "askubuntu.com") || (spl[2] == "meta.askubuntu.com")) {
         jQuery('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/zacharee/se-dark/beta/sodark.css" class="--apng-checked">');
     
     })();
-} else if (spl[2] == "chat.stackexchange.com") {
+} else if (spl[2] == "chat.stackexchange.com" || spl[2] == "chat.stackoverflow.com") {
     (function() {
         jQuery('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/zacharee/se-dark/beta/sechatdark.css" class="--apng-checked">');
     
