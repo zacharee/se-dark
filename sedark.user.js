@@ -12,6 +12,7 @@
 // @include      *://chat.stackexchange.com/*
 // @include      *://superuser.com/*
 // @include      *://meta.superuser.com/*
+// @include      *://chat.stackoverflow.com/*
 
 // @grant        none
 // ==/UserScript==
