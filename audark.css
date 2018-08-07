@@ -887,3 +887,18 @@ kbd {
 .site-footer--container {
     background-color: #111 !important;
 }
+
+/* topbar dialogs */
+.topbar-dialog.network-logo-dialog .dialog-content {
+    background: none !important;
+}
+
+/* selection list (achievements tracker) */
+.popup._badge-selection .-list-item {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+/* content */
+body.user-page #content * {
+    color: #fff;
+}
