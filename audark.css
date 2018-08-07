@@ -754,7 +754,7 @@ a.bounty-link { /*start bounty link*/
 }
 
 .close-as-duplicate-pane .original-display .list-originals .list .item.hover .stats {
-    background-color: #444: 
+    background-color: #444;
 }
 
 .close-as-duplicate-pane .original-display .list-originals .list .item {
@@ -870,4 +870,10 @@ kbd {
 /*profile save success background*/
 .val-success {
     background: #292929;
+}
+
+/* Sidebar widget titles */
+.s-sidebarwidget--header {
+    background: #333 !important;
+    color: #fff !important;
 }
