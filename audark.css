@@ -877,3 +877,13 @@ kbd {
     background: #333 !important;
     color: #fff !important;
 }
+
+/* Account page boxes */
+.p-highlights .-card {
+    background-color: #111 !important;
+}
+
+/* Footer */
+.site-footer--container {
+    background-color: #111 !important;
+}
