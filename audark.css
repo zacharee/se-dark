@@ -924,3 +924,17 @@ input[type="text"]:not(.s-input), input[type="password"]:not(.s-input), input[ty
 .p-highlights .menu-popout {
     background-color: #333 !important;
 }
+
+/* tags */
+.p-top-tags .-tag-group {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+/* footer links */
+.site-footer .-link {
+    color: #aaa;
+}
+
+.site-footer .-link:hover {
+    color: #fff;
+}
