@@ -902,3 +902,25 @@ kbd {
 body.user-page #content * {
     color: #fff;
 }
+
+/* inputs */
+input[type="text"]:not(.s-input), input[type="password"]:not(.s-input), input[type="number"]:not(.s-input), input[type="email"]:not(.s-input), input[type="url"]:not(.s-input), input[type="search"]:not(.s-input), input[type="tel"]:not(.s-input), input[type="datetime"]:not(.s-input), input[type="datetime-local"]:not(.s-input), input[type="date"]:not(.s-input), textarea:not(.s-input) {
+    background: none !important;
+    color: unset !important;
+}
+
+/* gold progress */
+.badge1-alternate,
+.s-progress__gold .s-progress--bar {
+    background-color: #aaa743 !important;
+}
+
+/* privilege progress */
+.s-progress__privilege .s-progress--bar {
+    background-color: #78be32 !important;
+}
+
+/* popup */
+.p-highlights .menu-popout {
+    background-color: #333 !important;
+}
