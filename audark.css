@@ -938,3 +938,68 @@ input[type="text"]:not(.s-input), input[type="password"]:not(.s-input), input[ty
 .site-footer .-link:hover {
     color: #fff;
 }
+
+.site-footer .-title a {
+    color: #fff;
+}
+
+/* rep banner */
+.p-highlights .-reputation .-meta-rep {
+    background-color: #333 !important;
+}
+
+/* tabs */
+#tabs a, .tabs a {
+    background-color: #333 !important;
+}
+
+#tabs a.youarehere:hover, .tabs a.youarehere:hover, .newnav .tabs-list-container .tabs-list .intellitab a.youarehere:hover {
+    color: #fff !important;
+}
+
+#tabs a.youarehere:hover, .tabs a.youarehere:hover {
+    background-color: #5e5e5e !important;
+}
+
+/* links */
+.nav-links .nav-links--link, .nav-links .nav-links--link:visited {
+    color: #fff !important;
+}
+
+.nav-links .nav-links--link:hover, .nav-links .nav-links--link:focus, .nav-links .nav-links--link:active {
+    color: #777 !important;
+}
+
+.s-btn__muted.s-btn__outlined:focus, .s-btn__muted.s-btn__outlined.is-selected {
+    color: #fff !important;
+}
+
+.s-btn__muted.s-btn__outlined {
+    color: #ccc !important;
+}
+
+.s-btn__muted.s-btn__outlined:hover, .s-btn__muted.s-btn__outlined:active {
+    color: #aaa !important;
+}
+
+.bg-black-050 {
+    background-color: #333 !important;
+}
+
+#sidebar .community-bulletin .bulletin-item-content a {
+    color: #fff !important;
+}
+
+#sidebar .community-bulletin .bulletin-item-content a:hover {
+    color: #aaa !important;
+}
+
+/* sidebar titles */
+#sidebar h4 {
+    color: #fff !important;
+}
+
+/* labels */
+.f-label, label.f-label {
+    color: unset !important;
+}
