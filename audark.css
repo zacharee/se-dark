@@ -885,7 +885,7 @@ kbd {
 
 /* Footer */
 .site-footer--container {
-    background-color: #111 !important;
+    background-color: unset !important;
 }
 
 /* topbar dialogs */
@@ -1002,4 +1002,9 @@ input[type="text"]:not(.s-input), input[type="password"]:not(.s-input), input[ty
 /* labels */
 .f-label, label.f-label {
     color: unset !important;
+}
+
+/* list action */
+.action-list:not(.popup-condensed) .action-selected {
+    background-color: unset !important;
 }
