@@ -1008,3 +1008,8 @@ input[type="text"]:not(.s-input), input[type="password"]:not(.s-input), input[ty
 .action-list:not(.popup-condensed) .action-selected {
     background-color: unset !important;
 }
+
+/* labels */
+.s-label {
+    color: unset !important;
+}
