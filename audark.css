@@ -1016,5 +1016,34 @@ input[type="text"]:not(.s-input), input[type="password"]:not(.s-input), input[ty
 
 /* container */
 .-container {
-    background-color: #333;
+    background-color: #333 !important;
+}
+
+/* top bar */
+.top-bar {
+    background-color: unset !important;
+}
+
+/* rep count */
+.top-bar .my-profile .-rep {
+    color: #aaa !important;
+}
+
+.top-bar .my-profile:hover {
+    background-color: #444 !important;
+}
+
+/* top bar link */
+.top-bar .-secondary .-item .-link:hover {
+    background-color: #444 !important;
+    color: unset !important;
+}
+
+/* logo */
+.top-bar .-logo {
+    background-color: #555 !important;
+}
+
+.top-bar a.-logo:hover {
+    background-color: #666 !important;
 }
