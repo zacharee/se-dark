@@ -382,21 +382,21 @@ kbd {
     color: #2D8151;
 }
 
-.question-hyperlink:visited, .answer-hypherlink:visited {
-    color: #d95e0c;
-}
+/*.question-hyperlink:visited, .answer-hypherlink:visited {*/
+    /*color: #d95e0c;*/
+/*}*/
 
-.question-hyperlink:visited, .answer-hyperlink:visited, #hot-network-questions ul a:visited {
-    color: #d95e0c;
-}
+/*.question-hyperlink:visited, .answer-hyperlink:visited, #hot-network-questions ul a:visited {*/
+    /*color: #d95e0c;*/
+/*}*/
 
-.started a:not(.started-link), .started .mod-flair {
-    color: #d95e0c;
-}
+/*.started a:not(.started-link), .started .mod-flair {*/
+    /*color: #d95e0c;*/
+/*}*/
 
-a {
-    color: #d95e0c;
-}
+/*a {*/
+    /*color: #d95e0c;*/
+/*}*/
 
 .unanswered .mini-counts span {
     color: #777;
