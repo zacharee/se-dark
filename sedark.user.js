@@ -21,27 +21,27 @@ const str = window.location.href;
 const spl = str.split("/");
 
 const sites = [
-    "askubuntu.com",
-    "meta.askubuntu.com",
-    "stackoverflow.com",
-    "meta.stackoverflow.com",
-    "serverfault.com",
-    "meta.serverfault.com",
-    "superuser.com",
-    "meta.superuser.com",
-    "math.stackexchange.com",
-    "meta.math.stackexchange.com",
-    "photo.stackexchange.com",
-    "meta.photo.stackexchange.com",
-    "tex.stackexchange.com",
-    "meta.tex.stackexchange.com",
-    "unix.stackexchange.com",
-    "meta.unix.stackexchange.com",
-    "apple.stackexchange.com",
-    "meta.apple.stackexchange.com",
-    "judaism.stackexchange.com",
-    "meta.judaism.stackexchange.com",
-    "meta.stackexchange.com"
+    'askubuntu.com',
+    'meta.askubuntu.com',
+    'stackoverflow.com',
+    'meta.stackoverflow.com',
+    'serverfault.com',
+    'meta.serverfault.com',
+    'superuser.com',
+    'meta.superuser.com',
+    'math.stackexchange.com',
+    'meta.math.stackexchange.com',
+    'photo.stackexchange.com',
+    'meta.photo.stackexchange.com',
+    'tex.stackexchange.com',
+    'meta.tex.stackexchange.com',
+    'unix.stackexchange.com',
+    'meta.unix.stackexchange.com',
+    'apple.stackexchange.com',
+    'meta.apple.stackexchange.com',
+    'judaism.stackexchange.com',
+    'meta.judaism.stackexchange.com',
+    'meta.stackexchange.com'
 ];
 
 if (sites.includes(spl[2])) {
