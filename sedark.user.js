@@ -20,10 +20,31 @@ const str = window.location.href;
 
 const spl = str.split("/");
 
-if ((spl[2] === "askubuntu.com")
-    || (spl[2] === "meta.askubuntu.com")
-    || (spl[2] === "stackoverflow.com")
-    || (spl[2] === "meta.stackoverflow.com")) {
+const sites = [
+    "askubuntu.com",
+    "meta.askubuntu.com",
+    "stackoverflow.com",
+    "meta.stackoverflow.com",
+    "serverfault.com",
+    "meta.serverfault.com",
+    "superuser.com",
+    "meta.superuser.com",
+    "math.stackexchange.com",
+    "meta.math.stackexchange.com",
+    "photo.stackexchange.com",
+    "meta.photo.stackexchange.com",
+    "tex.stackexchange.com",
+    "meta.tex.stackexchange.com",
+    "unix.stackexchange.com",
+    "meta.unix.stackexchange.com",
+    "apple.stackexchange.com",
+    "meta.apple.stackexchange.com",
+    "judaism.stackexchange.com",
+    "meta.judaism.stackexchange.com",
+    "meta.stackexchange.com"
+];
+
+if (sites.contains(spl[2])) {
     (function() {
         jQuery('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/zacharee/se-dark/master/audark.css" class="--apng-checked">');
     
