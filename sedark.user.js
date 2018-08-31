@@ -9,7 +9,25 @@
 // @include      *://meta.askubuntu.com/*
 // @include      *://stackoverflow.com/*
 // @include      *://meta.stackoverflow.com/*
+// @include      *://serverfault.ccom/*
+// @include      *://meta.serverfault.com/*
+// @include      *://superuser.com/*
+// @include      *://meta.superuser.com/*
+// @include      *://math.stackexchange.com/*
+// @include      *://meta.math.stackexchange.com/*
+// @include      *://photo.stackexchange.com/*
+// @include      *://meta.photo.stackexchange.com/*
+// @include      *://tex.stackexchange.com/*
+// @include      *://meta.text.stackexchange.com/*
+// @include      *://unix.stackexchange.com/*
+// @include      *://meta.unix.stackexchange.com/*
+// @include      *://apple.stackexchange.com/*
+// @include      *://meta.apple.stackexchange.com/*
+// @include      *://judaism.stackexchange.com/*
+// @include      *://meta.judaism.stackexchange.com/*
+// @include      *://meta.stackexchange.com/*
 // @include      *://chat.stackexchange.com/*
+// @include      *://chat.stackoverflow.com/*
 
 // @grant        none
 // ==/UserScript==
