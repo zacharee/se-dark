@@ -2,11 +2,9 @@
 
 This userscript provides dark themes for various StackExchange sites. Currently, the following sites (and their metasites) are supported:
 
- - [Ask Ubuntu](https://askubuntu.com)
- - [Stack Overflow](https://stackoverflow.com)
- - [Stack Exchange Chat](https://chat.stackexchange.com)
+[View Array](https://github.com/zacharee/se-dark/blob/master/sedark.user.js#L41)
    
-This userscript also supports chat on the StackExchange domain.
+This userscript also supports chat on the StackExchange and StackOverflow domains.
 
 If there's an element that hasn't been changed or something else looks bad, either submit a pull request with your changes or open a new issue.
 
@@ -22,7 +20,7 @@ You might want to know what the site looks like before you install some random s
 
 # Installation
 
-To install this script, you'll need [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) for Chrome.
+To install this script, you'll need [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) (Chrome).
 
 After you have the appropriate plugin installed, click the image below, which will automagically install the userscript.
 
@@ -42,10 +40,4 @@ If you want to get Collaborator access, please send [Zacharee](https://github.co
 
 # Where's my site?
 
-If you use a Stack Exchange site that this userscript doesn't cover, head on over to the [Beta branch](https://github.com/zacharee/se-dark/tree/beta). This branch is for developing the stylesheets for the sites; it has more frequent changes, but also more unfinished and experimental work. 
-
-There's a chance you will see your site in Beta, but if you don't, you can always start it yourself. Either start from scratch or copy a stylesheet from another, completed site and make any necessary changes.
-
-# Notes
-
-- The script will eventually have a function to count the number of users actively using the script. If you do not want this anonymous logging, a second version of the script will be published that will not phone home.
+StackExchange is currently rolling out a unified theme for all communities. As this rollout continues, expect to see more sites included in this script.
