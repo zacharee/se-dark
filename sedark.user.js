@@ -44,7 +44,7 @@ const sites = [
     "meta.stackexchange.com"
 ];
 
-if (sites.contains(spl[2])) {
+if (sites.includes(spl[2])) {
     (function() {
         jQuery('head').append('<link rel="stylesheet" type="text/css" href="https://rawgit.com/zacharee/se-dark/master/audark.css" class="--apng-checked">');
     
