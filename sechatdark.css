@@ -261,3 +261,12 @@ div.ob-post-title a { /*titles of embedded Qs*/
 .ob-user {
   background-color: #222;
 }
+
+/* usernames */
+.monologue .signature a {
+    color: unset !important;
+}
+
+#transcript-body .signature, #conversation-body .signature {
+    color: unset !important;
+}
