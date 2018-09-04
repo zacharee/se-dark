@@ -1047,3 +1047,8 @@ input[type="text"]:not(.s-input), input[type="password"]:not(.s-input), input[ty
 .top-bar a.-logo:hover {
     background-color: #666 !important;
 }
+
+/* comment upvote */
+.comment-up-off:hover, .comment-up-on {
+    color: unset !important;
+}
