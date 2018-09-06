@@ -1051,3 +1051,8 @@ input[type="text"]:not(.s-input), input[type="password"]:not(.s-input), input[ty
 .comment-up-off, .comment-flag, .comment-flag-off {
     color: rgba(150, 150, 150, 0.15) !important;
 }
+
+/* content */
+body.user-page #content * {
+    color: #fff;
+}
