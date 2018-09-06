@@ -1066,3 +1066,8 @@ body.user-page #content * {
 rect {
     fill: transparent !important;
 }
+
+/* jobs background */
+.sidebar-profile.is-visible {
+    background-color: unset !important;
+}
