@@ -1061,3 +1061,8 @@ body.user-page #content * {
 .s-card {
     background-color: unset !important;
 }
+
+/* rep graph */
+rect {
+    fill: transparent !important;
+}
