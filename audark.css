@@ -1056,3 +1056,8 @@ input[type="text"]:not(.s-input), input[type="password"]:not(.s-input), input[ty
 body.user-page #content * {
     color: #fff;
 }
+
+/* cards */
+.s-card {
+    background-color: unset !important;
+}
