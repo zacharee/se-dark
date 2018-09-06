@@ -898,11 +898,6 @@ kbd {
     background-color: rgba(0, 0, 0, 0) !important;
 }
 
-/* content */
-body.user-page #content * {
-    color: #fff;
-}
-
 /* inputs */
 input[type="text"]:not(.s-input), input[type="password"]:not(.s-input), input[type="number"]:not(.s-input), input[type="email"]:not(.s-input), input[type="url"]:not(.s-input), input[type="search"]:not(.s-input), input[type="tel"]:not(.s-input), input[type="datetime"]:not(.s-input), input[type="datetime-local"]:not(.s-input), input[type="date"]:not(.s-input), textarea:not(.s-input) {
     background: none !important;
