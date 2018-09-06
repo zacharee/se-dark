@@ -1063,7 +1063,7 @@ body.user-page #content * {
 }
 
 /* rep graph */
-g > rect {
+svg > rect {
     fill: transparent !important;
 }
 
