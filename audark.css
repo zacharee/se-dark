@@ -1067,6 +1067,10 @@ svg > rect {
     fill: transparent !important;
 }
 
+div > span {
+    fill: transparent !important;
+}
+
 /* jobs background */
 .sidebar-profile.is-visible {
     background-color: unset !important;
