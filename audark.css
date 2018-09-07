@@ -1141,6 +1141,10 @@ a.btn-secondary {
     background: #333 !important;
 }
 
+.story-preferences .link-text {
+    background: unset !important;
+}
+
 /* SO sidebar */
 .fc-medium {
     color: unset !important;
