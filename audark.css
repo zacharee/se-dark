@@ -1120,3 +1120,7 @@ a.btn-secondary {
 .timeline-item.edit .timeline-item-actions {
     background: #77838c !important;
 }
+
+.timeline-item.assessment:not(.edit) .timeline-item-tags {
+    background-color: unset !important;
+}
