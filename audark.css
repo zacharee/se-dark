@@ -1112,3 +1112,11 @@ div#item-add {
 a.btn-secondary {
     background: #335f99;
 }
+
+.f-input[disabled], textarea.f-input[disabled], input[type="text"].f-input[disabled], input[type="password"].f-input[disabled], input[type="number"].f-input[disabled], input[type="email"].f-input[disabled], input[type="url"].f-input[disabled], input[type="search"].f-input[disabled], input[type="tel"].f-input[disabled], input[type="datetime"].f-input[disabled], .f-input.is-disabled, textarea.f-input.is-disabled, input[type="text"].f-input.is-disabled, input[type="password"].f-input.is-disabled, input[type="number"].f-input.is-disabled, input[type="email"].f-input.is-disabled, input[type="url"].f-input.is-disabled, input[type="search"].f-input.is-disabled, input[type="tel"].f-input.is-disabled, input[type="datetime"].f-input.is-disabled, .f-input[read-only], textarea.f-input[read-only], input[type="text"].f-input[read-only], input[type="password"].f-input[read-only], input[type="number"].f-input[read-only], input[type="email"].f-input[read-only], input[type="url"].f-input[read-only], input[type="search"].f-input[read-only], input[type="tel"].f-input[read-only], input[type="datetime"].f-input[read-only], .f-input.is-readonly, textarea.f-input.is-readonly, input[type="text"].f-input.is-readonly, input[type="password"].f-input.is-readonly, input[type="number"].f-input.is-readonly, input[type="email"].f-input.is-readonly, input[type="url"].f-input.is-readonly, input[type="search"].f-input.is-readonly, input[type="tel"].f-input.is-readonly, input[type="datetime"].f-input.is-readonly {
+    background: unset !important;
+}
+
+.timeline-item.edit .timeline-item-actions {
+    background: #77838c !important;
+}
