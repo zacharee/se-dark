@@ -1125,6 +1125,22 @@ a.btn-secondary {
     background-color: unset !important;
 }
 
+.timeline .header-edit-section:hover, .timeline .header-edit-section.editing {
+    background: unset !important;
+}
+
+.item-select-table {
+    background: unset !important;
+}
+
+.item-select-table .item:hover {
+    background: #333 !important;
+}
+
+.timeline .header-edit-section .ctas {
+    background: #333 !important;
+}
+
 /* SO sidebar */
 .fc-medium {
     color: unset !important;
