@@ -1091,6 +1091,10 @@ select {
     background: unset !important;
 }
 
+option {
+    background: #000 !important;
+}
+
 /* dev story counter */
 .-counter {
     background: unset !important;
