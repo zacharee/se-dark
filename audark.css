@@ -1080,3 +1080,18 @@ div > span {
 .hero-box.devstory {
     background: unset !important;
 }
+
+/* dev story separator */
+.double-input .separator {
+    background: unset !important;
+}
+
+/* dev story select */
+select {
+    background: unset !important;
+}
+
+/* dev story counter */
+.-counter {
+    background: unset !important;
+}
