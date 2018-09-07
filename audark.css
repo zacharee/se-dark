@@ -1067,6 +1067,10 @@ svg > rect {
     fill: transparent !important;
 }
 
+g > rect {
+    fill: transparent !important;
+}
+
 div > span {
     fill: transparent !important;
 }

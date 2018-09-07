@@ -73,3 +73,5 @@ if (sites.includes(spl[2])) {
     
     })();
 }
+
+$()
