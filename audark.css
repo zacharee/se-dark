@@ -1067,7 +1067,7 @@ svg > rect {
     fill: transparent !important;
 }
 
-g > rect {
+g.highcharts-tooltip > rect {
     fill: transparent !important;
 }
 
