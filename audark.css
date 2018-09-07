@@ -1075,3 +1075,8 @@ div > span {
 .sidebar-profile.is-visible {
     background-color: unset !important;
 }
+
+/* dev story card */
+.hero-box.devstory {
+    background: unset !important;
+}
