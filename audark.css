@@ -1099,3 +1099,16 @@ option {
 .-counter {
     background: unset !important;
 }
+
+/* dev story misc */
+.g-column.feature-banner.feature-banner__background {
+    background: #444 !important;
+}
+
+div#item-add {
+    background: #666 !important;
+}
+
+a.btn-secondary.block.has-tooltip.js-gps-track {
+    background: #335f99;
+}
