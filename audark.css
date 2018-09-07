@@ -1109,6 +1109,6 @@ div#item-add {
     background: #666 !important;
 }
 
-a.btn-secondary.block.has-tooltip.js-gps-track {
+a.btn-secondary {
     background: #335f99;
 }
