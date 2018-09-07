@@ -1124,3 +1124,8 @@ a.btn-secondary {
 .timeline-item.assessment:not(.edit) .timeline-item-tags {
     background-color: unset !important;
 }
+
+/* SO sidebar */
+.fc-medium {
+    color: unset !important;
+}
