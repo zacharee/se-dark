@@ -1068,7 +1068,7 @@ svg > rect {
 }
 
 g.highcharts-tooltip > rect {
-    fill: transparent !important;
+    fill: #212121 !important;
 }
 
 div > span {
