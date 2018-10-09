@@ -1040,7 +1040,7 @@ input[type="text"]:not(.s-input), input[type="password"]:not(.s-input), input[ty
 
 /* logo */
 .top-bar .-logo {
-    background-color: #555 !important;
+    background-color: #unset !important;
 }
 
 .top-bar a.-logo:hover {
