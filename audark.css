@@ -885,7 +885,7 @@ kbd {
 
 /* Footer */
 .site-footer--container {
-    background-color: unset !important;
+    background-color: #121212 !important;
 }
 
 /* topbar dialogs */
@@ -936,6 +936,10 @@ input[type="text"]:not(.s-input), input[type="password"]:not(.s-input), input[ty
 
 .site-footer .-title a {
     color: #fff;
+}
+
+.site-footer .-title a:hover {
+    color: #aaa;
 }
 
 /* rep banner */
@@ -1152,4 +1156,31 @@ a.btn-secondary {
 /* SO sidebar */
 .fc-medium {
     color: unset !important;
+}
+
+/* Titles */
+.fc-dark {
+    color: unset !important;
+}
+
+/* Cards */
+.bg-black-025 {
+    background-color: #333 !important;
+}
+
+/* Expand Arrows */
+.site-footer .-link._expandable:after {
+    border-color: #fff !important;
+}
+
+.site-footer .-link._expandable:before {
+    background-color: #454545 !important;
+}
+
+.site-footer .-link._expandable:hover:before {
+    background-color: rgba(69, 69, 69, 0.5);
+}
+
+.site-footer .-link._expandable:hover:after {
+    border-color: unset !important;
 }
