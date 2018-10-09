@@ -1184,3 +1184,8 @@ a.btn-secondary {
 .site-footer .-link._expandable:hover:after {
     border-color: unset !important;
 }
+
+/* Back Button */
+.site-footer--back:hover {
+    color: #444 !important;
+}
